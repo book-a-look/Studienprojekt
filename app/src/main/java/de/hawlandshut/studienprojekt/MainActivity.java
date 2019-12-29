@@ -29,6 +29,4 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, KundeSalon.class);
         startActivity(intent);
     }
-
-    // Test GitHub ob der Push auch funktioniert
 }
