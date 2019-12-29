@@ -30,5 +30,5 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    // Test GitHub
+    // Test GitHub ob der Push auch funktioniert
 }
