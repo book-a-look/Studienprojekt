@@ -6,12 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-
     <Button
         android:id="@+id/button1"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#85CEF1"
-        android:text="BookaLook"
+        android:text="book-a-look"
         android:textSize="30sp" />
+
 </RelativeLayout>

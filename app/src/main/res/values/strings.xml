@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Studienprojekt</string>
+    <string name="auswahl_kunde_salon">Wählen sie aus:</string>
+    <string name="kunde">Kunde</string>
+    <string name="salonbetreiber">Salonbetreiber</string>
+    <string name="damen">Damen</string>
+    <string name="herren">Herren</string>
+    <string name="wellness">Wellness</string>
+    <string name="buchung">Ihre Buchung suchen</string>
+    <string name="friseur">Friseur</string>
+    <string name="kosmetikstudios">Kosmetikstudios</string>
+    <string name="maniküre">Maniküre/Pediküre</string>
+    <string name="haarentfernung">Haarentfernung</string>
+    <string name="sauna">Sauna</string>
+    <string name="massagen">Massagen</string>
+    <string name="zurück">Zurück</string>                                                               // wird dieser Button benötigt?
+    <string name="wohnort_plz">Geben Sie bitte Ihren Wohnort/Ihre PLZ an: </string>                     // bisher nur Eingabe der PLZ
+    <string name="suchen">Suchen</string>
+    <string name="kontaktdaten">Kontaktdaten</string>
+    <string name="vorname">Vorname: </string>
+    <string name="nachname">Nachname: </string>
+    <string name="email">E-Mail: </string>
+    <string name="telefon">Telefon: </string>
+    <string name="rabatt">Rabattcode: </string>
+    <string name="weiter">Weiter</string>
 </resources>
