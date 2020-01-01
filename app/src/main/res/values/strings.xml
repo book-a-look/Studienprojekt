@@ -23,4 +23,10 @@
     <string name="telefon">Telefon: </string>
     <string name="rabatt">Rabattcode: </string>
     <string name="weiter">Weiter</string>
+    <string name="zahlungsmethode">Zahlungsmethode</string>
+    <string name="bar">Bar bei Termin: </string>
+    <string name="paypal">PayPal: </string>
+    <string name="agb">AGB lesen</string>
+    <string name="agb_bestaetigen">AGB bestätigen</string>
+    <string name="termin_bestätigen">Termin bestätigen</string>
 </resources>
