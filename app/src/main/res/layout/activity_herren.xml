@@ -49,4 +49,6 @@
         android:text="@string/haarentfernung"
         android:textSize="22sp" />
 
+    //Test
+
 </LinearLayout>
