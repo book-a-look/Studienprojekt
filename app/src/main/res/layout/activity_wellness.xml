@@ -29,6 +29,6 @@
         android:layout_gravity="center"
         android:layout_marginTop="25dp"
         android:text="@string/massagen"
-        android:textSize="2sp" />
+        android:textSize="22sp" />
 
 </LinearLayout>

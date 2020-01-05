@@ -12,16 +12,16 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="75dp"
         android:text="@string/auswahl_kunde_salon"
-        android:textSize="45dp" />
+        android:textSize="45sp" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="300dp"
         android:layout_height="90dp"
         android:layout_gravity="center"
-        android:layout_marginTop="75dp"
+        android:layout_marginTop="50dp"
         android:text="@string/kunde"
         android:textSize="30sp" />
 

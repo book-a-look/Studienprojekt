@@ -1,8 +1,10 @@
 <resources>
+    <string name="app">book-a-look</string>
     <string name="app_name">Studienprojekt</string>
     <string name="auswahl_kunde_salon">Wählen sie aus:</string>
     <string name="kunde">Kunde</string>
     <string name="salonbetreiber">Salonbetreiber</string>
+    <string name="auswahl_kategorie">Wählen sie die Kategorie aus:</string>
     <string name="damen">Damen</string>
     <string name="herren">Herren</string>
     <string name="wellness">Wellness</string>

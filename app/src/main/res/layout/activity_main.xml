@@ -11,7 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#85CEF1"
-        android:text="book-a-look"
-        android:textSize="30sp" />
+        android:gravity="center|center_horizontal"
+        android:text="@string/app"
+        android:textSize="50sp" />
 
 </RelativeLayout>

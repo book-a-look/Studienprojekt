@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class KundeSalon extends AppCompatActivity {
+
     private Button button2;
     private Button button3;
 
