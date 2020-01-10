@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".C92_Zahlungsmethode">>
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="@string/zahlungsmethode"
+        android:textSize="35dp" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginTop="50dp"
+        android:text="@string/bar"
+        android:textSize="20dp"/>
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginTop="30dp"
+        android:text="@string/paypal"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/button20"
+        android:layout_width="200dp"
+        android:layout_height="45dp"
+        android:layout_gravity="left"
+        android:layout_marginTop="40dp"
+        android:text="@string/agb"
+        android:textSize="20sp" />
+
+    <CheckedTextView
+        android:id="@+id/checkedTextView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginTop="30dp"
+        android:text="@string/agb_bestaetigen"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/button21"
+        android:layout_width="250dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="@string/termin_bestätigen"
+        android:textSize="20sp" />
+
+</LinearLayout>
