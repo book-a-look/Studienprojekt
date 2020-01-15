@@ -18,6 +18,12 @@
     <string name="zurück">Zurück</string>                                                               // wird dieser Button benötigt?
     <string name="wohnort_plz">Geben Sie bitte Ihren Wohnort/Ihre PLZ an: </string>                     // bisher nur Eingabe der PLZ
     <string name="suchen">Suchen</string>
+    <string name="kategorie">Kategorie</string>
+    <string name="profil">Profil</string>
+    <string name="details">Details</string>
+    <string name="termin_buchen">Termin buchen</string>
+    <string name="angestellten_auswaehlen">Bitte wählen Sie den Angestellten aus:</string>
+    <string name="terminkalender">Terminkalender</string>
     <string name="kontaktdaten">Kontaktdaten</string>
     <string name="vorname">Vorname: </string>
     <string name="nachname">Nachname: </string>

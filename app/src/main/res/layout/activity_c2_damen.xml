@@ -4,7 +4,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".C2_Damen">>
+    tools:context=".C2_Damen">
 
     <TextView
         android:id="@+id/textView3"

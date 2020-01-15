@@ -12,7 +12,6 @@ public class C4_Wellness extends AppCompatActivity {
     private Button button16;
     private Button button17;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
